@@ -1,0 +1,182 @@
+a {
+  color: #293283;
+}
+
+.main-btn {
+  background-color: #00a78e;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-nav .nav-item a {
+  text-decoration: none;
+}
+
+.main-btn.main-btn-2 {
+  color: #646f87;
+  border: 2px solid #646f87;
+}
+
+.section_title .sub_title {
+  color: #293283;
+}
+
+.section_title .line li {
+  background-color: #293283;
+}
+
+.preloader .loader .ytp-spinner-circle {
+  border-color: #293283 #293283 #eceff8;
+}
+
+.navbar-nav .nav-item .sub-menu li a.active,
+.navbar-nav .nav-item .sub-menu li a:hover {
+  color: #293283;
+}
+
+.sticky .navbar-nav .nav-item.active > a,
+.sticky .navbar-nav .nav-item:hover > a {
+  color: #293283;
+}
+
+.header_social li a:hover {
+  color: #293283;
+}
+
+.header_hero_shape::before {
+  background: linear-gradient(
+    2deg,
+    rgba(41, 50, 131, 1) 41%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+.about_image img {
+  max-width: 500px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+.header_hero_content .header_sub_title {
+  color: #293283;
+}
+
+.about_image .about_shape {
+  border-left: 15px solid #293283;
+  border-bottom: 15px solid #293283;
+}
+
+.about_image .about_shape::before {
+  background-color: #293283;
+}
+
+.about_image .about_shape::after {
+  background-color: #293283;
+}
+
+.skill_item .skill_bar .bar_inner .progress_line {
+  background-color: #293283;
+}
+
+.skill_item .skill_bar .bar_inner .progress_line::before {
+  border: 2px solid #293283;
+}
+
+.single_service {
+  min-height: 340px;
+}
+
+.single_service .service_icon i {
+  background-color: #293283;
+}
+
+.single_service:hover {
+  background-color: #293283;
+}
+.single_service:hover .service_icon i {
+  color: #293283;
+}
+
+.call_to_action_box {
+  background-color: #293283;
+}
+
+.call_to_action_box .call_to_action_btn .main-btn {
+  color: #293283;
+}
+
+.footer_content .footer_social li a:hover {
+  color: #293283;
+}
+
+.single_service.single_experience {
+  min-height: 650px;
+}
+
+.single_service .service_content .service_title span {
+  font-size: 22px;
+  font-weight: 600;
+  color: #293651;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+
+.single_service:hover .service_content .service_title span {
+  color: #fff;
+}
+
+#portafolio .card-img-top {
+  height: 180px;
+}
+
+#portafolio .card-title {
+  font-weight: 600;
+}
+
+#portafolio .card-body {
+  padding: 1.25rem 0.85rem;
+}
+
+#portafolio .card-body a {
+  text-decoration: none;
+}
+
+#footer {
+  background: linear-gradient(
+    2deg,
+    rgba(41, 50, 131, 1) 41%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  padding: 1rem;
+}
+
+#footer .footer_content .email {
+  color: #fff;
+}
+
+#footer .footer_content .footer_social li a {
+  color: #fff;
+  background: rgba(33, 36, 91, 0.5);
+}
+
+#footer .footer_content .footer_social li a:hover {
+  color: crimson;
+}
+
+#footer .footer_content .email {
+  text-decoration: none;
+}
+
+#footer .footer_content .footer_menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer_content .footer_social {
+    margin-top: 0;
+}

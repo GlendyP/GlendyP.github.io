@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    color: #000;
+    font-family: cursive;
+}
+
+header {
+    background-image: url('../img/aloha.jpeg');
+    padding: 50px;
+    background-size: cover;
+    background-position: center;
+}
+
+header h1 {
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+header h2 {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+table {
+    margin-top: 60px;
+    width: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+td p {
+    margin-left: 60px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.imagen img {
+    margin-bottom: 50px;
+    border: 1px solid #6b6868;
+    width: 200px;
+}
+
+.valor {
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #f8d6aa;
+}
+
+footer p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding: 10px;
+}
